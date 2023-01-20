@@ -1,10 +1,6 @@
 {
-    "name": "n-c-component-library",
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/joeythelantern/Component-Library.git"
-    },
-    "version": "0.0.2",
+    "name": "suizasoft-btn-test",
+    "version": "0.0.3",
     "description": "A component library for getting people started with easy to re-use components for everyday projects.",
     "main": "dist/cjs/index.js",
     "module": "dist/esm/index.js",

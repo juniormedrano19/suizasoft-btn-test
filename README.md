@@ -1,6 +1,6 @@
 # React Component Library
 
-![N|Solid](https://lh3.googleusercontent.com/a-/AOh14GglnMoBPixoeH-IwaCWx7SpehtvYTPowns21fVO=s200-k-no-rp-mo)
+![N|Solid](https://www.suizalab.com/wp-content/uploads/2020/08/logo-SL100.png)
 
 Learn how to make a component library!  Link is in the repository description.
 
